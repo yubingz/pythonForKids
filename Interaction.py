@@ -4,4 +4,12 @@
 
 print('Waah~~~')
 
-# Uh-oh, Python is crying~~~. What's matter with it?
+# Uh-oh, Python is crying~~~. What's matter with it? 
+# Is it hungry? A feeding-bottle, please!
+
+print('Waah~~~')
+
+# Oh, no! Look at the diapers. It's wet. So, let's fiind 
+# new diapers for it.
+
+print(':)');
