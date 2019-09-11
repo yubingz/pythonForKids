@@ -9,7 +9,7 @@ print('Waah~~~')
 
 print('Waah~~~')
 
-# Oh, no! Look at the diapers. It's wet. So, let's fiind 
+# Oh, no! Look at the diapers. It's wet. So, let's find 
 # new diapers for it.
 
-print(':)');
+print(':)')
