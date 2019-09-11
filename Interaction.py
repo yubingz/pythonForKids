@@ -1,4 +1,7 @@
-# Now, there is a newborn baby and we named it Python. It know nothing but eating and crying.
-# Firstly, we need to teach the computer speak to human.
+# Now, there is a newborn baby and we named it Python. 
+# It know nothing but eating and crying.
+# Firstly, I want to tell Python how to speak to us.
 
-printf('Waah~~~');
+print('Waah~~~')
+
+# Uh-oh, Python is crying~~~. What's matter with it?
